@@ -5,6 +5,12 @@ body {
     position: relative;
 }
 
+
+img {
+    border-radius: 5%;
+  }
+
+
 a {
     color: #e38cb7;
 }
@@ -30,7 +36,7 @@ h2 {
 }
 
 h3 {
-    color: #633991;
+    color: #d0a4fc;
     font-size: 33px;
     font-weight: 500;
 }
@@ -38,13 +44,13 @@ h3 {
 h4 {
     font-size: 20px;
     font-weight: 500;
-    color: #633991;
+    color: #d0a4fc;
 }
 
 h5 {
     font-size: 28px;
     font-weight: 300;
-    color: #633991;
+    color: #d0a4fc;
     margin-bottom: 0.7rem;
 }
 
@@ -63,6 +69,10 @@ p.lead {
 
 .light-font {
     font-weight: 300;
+}
+
+.lol {
+    color: #633991;
 }
 
 .btn {
@@ -119,7 +129,7 @@ p.lead {
 }
 
 .light-bg {
-    background-color: #faf6fb;
+    background-color: rgb(28, 27, 32);
 }
 
 .section {
@@ -212,7 +222,7 @@ header {
     background-image: -moz-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
     background-image: -webkit-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
     background-image: -ms-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
-    background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
+    background-image: linear-gradient( 135deg, rgba(66,8,96,255) 0%, rgba(187,5,97,255) 100%)
 }
 
 .tagline {
