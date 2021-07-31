@@ -1,1 +1,1 @@
-Hello this is the repo of tripledickbot ( website ) 
+tripledickbot.github.io source code (NOT THE BOT SOURCE CODE, IT'S CLOSED FOR NOW)
